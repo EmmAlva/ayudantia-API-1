@@ -1,0 +1,24 @@
+{
+  "name": "ayudantia-api",
+  "version": "1.0.0",
+  "description": "ayudantia de API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleSV/ayudantia-API.git"
+  },
+  "keywords": [
+    "AJAX",
+    "API",
+    "JS"
+  ],
+  "author": "Michelle Seguil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleSV/ayudantia-API/issues"
+  },
+  "homepage": "https://github.com/MichelleSV/ayudantia-API#readme"
+}
